@@ -1,0 +1,18 @@
+*{ margin: 0; padding: 0; background-color: bisque}
+
+.conteiner{
+    margin: auto;
+    margin: 10px;
+    width: 960px;
+    height: 800px;
+    background-color: lightgray;
+}
+
+.hero{
+    float: left;
+    width: 3%;
+    height: 780px;
+    background-image: linear-gradient(grey, black);
+
+
+}
